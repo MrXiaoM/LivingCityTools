@@ -1,0 +1,137 @@
+citytools.settings.title=生存都市工具 Mod 设置
+citytools.settings.subtitle=作者: Mr_Xiao_M
+
+citytools.ignore.title=屏蔽列表
+citytools.ignore.subtitle=(留空即为删除该行)
+citytools.ignore.cancel=取消
+citytools.ignore.add=添加
+citytools.ignore.saveandclose=保存并关闭
+citytools.ignore.load=从配置文件载入
+
+citytools.inv.workbench=打开随身工作台
+citytools.inv.enderchest=打开随身末影箱
+citytools.inv.permission=§7此操作需要权限来执行
+
+citytools.hotkey.title=快捷键选项
+citytools.hotkey.add=添加
+citytools.hotkey.remove=移除
+citytools.hotkey.saveandclose=保存并关闭
+citytools.hotkey.about=关于
+citytools.hotkey.about.title=关于快捷键功能
+citytools.hotkey.about.0=作者的话: 为了一些别有用心的人，我已经在协议中声明了:
+citytools.hotkey.about.1=§o使用本mod时，您使用本mod进行的操作应遵守《生存都市玩家协议》以及相关法律内容。
+citytools.hotkey.about.2=另外，这个版本更新了执行脚本功能，详细可以在发布帖内查看，可能再也不会更新这个功能了吧…
+citytools.hotkey.about.3=毕竟这个功能争议性很大。同样的，别违反使用协议，我不会因为你违规而承担责任的
+
+citytools.menu.text=[%s] 打开菜单
+citytools.menu.info.1=“%s”
+citytools.menu.info.2=LV.%s
+citytools.menu.info.3=生命值: %s/%s
+citytools.menu.info.4=武器: %s
+citytools.menu.info.4.none=- 空 -
+citytools.menu.info.5=防具: %s
+citytools.menu.info.5.none=- 空 -
+citytools.menu.pay.welcome=欢迎使用都市支付
+citytools.menu.pay.name=收款人:
+citytools.menu.pay.money=金额:
+citytools.menu.pay.button.confirm=确认支付
+citytools.menu.pay.button.type=支付方式:
+citytools.menu.pay.button.type.0=普通支付
+citytools.menu.pay.button.type.1=E支付
+citytools.menu.button.email=发留言
+citytools.menu.button.fly=开启飞行
+citytools.menu.button.pay=都市支付
+citytools.menu.button.spawn=回城
+citytools.menu.button.servers=服务器..
+citytools.menu.button.teleport=快捷传送
+
+citytools.menu.teleport.server=当前服区(可能会不准确): %s
+citytools.menu.teleport.title=你想要去哪里？
+citytools.menu.teleport.sc.zy=资源世界
+citytools.menu.teleport.sc.zz=住宅一区
+citytools.menu.teleport.sc.zz2=住宅二区
+citytools.menu.teleport.sc.dy=地狱世界
+citytools.menu.teleport.sc.md=末地世界
+citytools.menu.teleport.sc.sd=系统商店
+citytools.menu.teleport.sc.pvp=球场PVP
+
+citytools.menu.teleport.kd.is=回到空岛
+citytools.menu.teleport.kd.sd=系统商店
+
+citytools.menu.teleport.kk.is=回岛
+citytools.menu.teleport.kk.sd=系统商店
+citytools.menu.teleport.kk.fb=副本大厅
+citytools.menu.teleport.kk.kc=矿区
+
+citytools.menu.teleport.zd.zd=钻石大陆
+citytools.menu.teleport.zd.dp=回到地皮
+citytools.menu.teleport.zd.sd=系统商店
+citytools.menu.teleport.zd.dh=兑换区
+citytools.menu.teleport.zd.fb=副本大厅
+citytools.menu.teleport.zd.boss=世界BOSS
+
+citytools.menu.teleport.player=传送到玩家..
+
+citytools.menu.teleport.player.title=请求传送到玩家
+citytools.menu.teleport.player.confirm=确定
+citytools.menu.teleport.player.showtitle=§e§l已发送传送请求， 也许吧..
+
+citytools.menu.servers.mode=服区: %s
+citytools.menu.servers.mode.auto=(自动)
+citytools.menu.servers.mode.manual=(手动)
+citytools.menu.servers.title=你想要去哪个服务器？
+citytools.menu.servers.sc=经典生存
+citytools.menu.servers.sk=空岛战争
+citytools.menu.servers.kd=经典空岛
+citytools.menu.servers.kk=酸性海岛
+citytools.menu.servers.zd=钻石大陆
+citytools.menu.servers.mrsc=末日生存
+citytools.menu.servers.tnt=活动服
+
+citytools.menu.mail.title=向某人发送邮件/留言
+citytools.menu.mail.name=收件人:
+citytools.menu.mail.context=消息内容:
+citytools.menu.mail.send=发送
+
+citytools.tpmsg.title=§b请求传送到你那里
+citytools.tpmsg.choice=§a§l[%s]接受    §c§l[%s]拒绝
+
+citytools.mainmenu.forum=游戏社区
+citytools.mainmenu.qq=加入Q群
+
+citytools.credits.esc=按 Esc 跳过
+
+citytools.gamemenu.title=游戏菜单
+citytools.gamemenu.subtitle=生存都市服务器
+citytools.gamemenu.online=在线人数: %s
+citytools.gamemenu.alone=铭记，你并不孤独。
+citytools.gamemenu.screenshot=打开截图文件夹
+citytools.gamemenu.hotkeys=快捷键设置
+citytools.gamemenu.backtoold=暂时回到旧菜单
+citytools.gamemenu.ignorelist=屏蔽列表...
+citytools.gamemenu.chatnotice=聊天音效提醒...
+citytools.gamemenu.options=打开都市小工具Mod设置
+citytools.gamemenu.payrecord=打开账本入账记录
+
+citytools.payrecord.title=账本入账记录
+citytools.payrecord.subtitle=本记录仅为客户端记录，不保证真实完整
+citytools.payrecord.clear=清空记录
+
+citytools.chatnotice.title=聊天音效提示设置
+citytools.chatnotice.subtitle=§7目前不支持使用样式代码，强行修改配置文件也没用的
+citytools.chatnotice.text=包括文字时:
+citytools.chatnotice.sound=播放音效:
+citytools.chatnotice.patch=音调:
+citytools.chatnotice.remove=删除
+citytools.chatnotice.play=试听
+
+citytools.networkfix.buttonname=一直“正在连接”吗? 点我查看解决方法
+citytools.networkfix.title=一直“正在连接”， 怎么办呢?
+citytools.networkfix.context.0=Windows 用户可以点击屏幕右下角的按钮来更改
+citytools.networkfix.context.1=网络适配器的设置，打开配置页面后
+citytools.networkfix.context.2=鼠标右键你正在使用的网络，点击禁用
+citytools.networkfix.context.3=再右键一次，点击启用
+citytools.networkfix.context.4=之后，点击下方的返回按钮回到主菜单
+citytools.networkfix.context.5=看看有没有效果吧
+citytools.networkfix.config=更改适配器设置
+citytools.networkfix.config.unsupport=仅限Windows

@@ -1,0 +1,138 @@
+citytools.settings.title=LivingCity Tools Mod Settings
+citytools.settings.subtitle=By Mr_Xiao_M
+citytools.ignore.title=Ignore List
+citytools.ignore.subtitle=(To leave blank is to delete the line)
+citytools.ignore.cancel=Cancel
+citytools.ignore.add=Add
+citytools.ignore.saveandclose=Save and close
+citytools.ignore.load=Load from configuration
+
+citytools.inv.workbench=Open Essentials Workbench
+citytools.inv.enderchest=Open Essentials Ender Chest
+citytools.inv.permission=§7It needs some permission.
+
+citytools.hotkey.title=Hot key options
+citytools.hotkey.add=Add
+citytools.hotkey.remove=Remove
+citytools.hotkey.saveandclose=Save and close
+citytools.hotkey.about=About
+citytools.hotkey.about.title=About hotkey function
+citytools.hotkey.about.0= Author's words: for some people with ulterior motives, I have stated in the agreement:
+citytools.hotkey.about.1=§oWhen you using this mod, you should abide by 《生存都市玩家协议》 and relevant laws.
+citytools.hotkey.about.2=In addition, this version updates the execution script function, which can be viewed in the post in detail, and it may not be updated again…
+citytools.hotkey.about.3=After all, this function is controversial. Similarly, don't violate the agreement. I won't be responsible for your violation.
+
+citytools.menu.text=[%s] Open menu
+citytools.menu.info.1="%s"
+citytools.menu.info.2=LV.%s
+citytools.menu.info.3=HP: %s/%s
+citytools.menu.info.4=Weapon: %s
+citytools.menu.info.4.none=- None -
+citytools.menu.info.5=Armor: %s
+citytools.menu.info.5.none=- None -
+citytools.menu.pay.welcome=Welcome to City Payment
+citytools.menu.pay.name=Payee:
+citytools.menu.pay.money=Amount of money:
+citytools.menu.pay.button.confirm=Confirm
+citytools.menu.pay.button.type=Payment method:
+citytools.menu.pay.button.type.0=Normal
+citytools.menu.pay.button.type.1=E Pay
+citytools.menu.button.email=Send Email
+citytools.menu.button.fly=Open Flight
+citytools.menu.button.pay=City Payment
+citytools.menu.button.spawn=Spawn
+citytools.menu.button.servers=Servers..
+citytools.menu.button.teleport=Quick teleport
+
+citytools.menu.teleport.server=Current server(May not be accurate): %s
+citytools.menu.teleport.title=Where do you want to go?
+citytools.menu.teleport.sc.zy=Resource
+citytools.menu.teleport.sc.zz=Living I
+citytools.menu.teleport.sc.zz2=Living II
+citytools.menu.teleport.sc.dy=Nether
+citytools.menu.teleport.sc.md=The End
+citytools.menu.teleport.sc.sd=Shop
+citytools.menu.teleport.sc.pvp=Court PVP
+
+citytools.menu.teleport.kd.is=Back to Island
+citytools.menu.teleport.kd.sd=Shop
+
+citytools.menu.teleport.kk.is=Back to Island
+citytools.menu.teleport.kk.sd=Shop
+citytools.menu.teleport.kk.fb=Fight monsters
+
+citytools.menu.teleport.zd.dp=Back to plot
+citytools.menu.teleport.zd.sd=Shop
+citytools.menu.teleport.zd.dh=Exchange Area
+citytools.menu.teleport.zd.fb=Fight monsters
+citytools.menu.teleport.zd.boss=WORLD BOSS
+
+citytools.menu.teleport.player=TP to player..
+
+citytools.menu.teleport.player.title=Player of you want to teleport to:
+citytools.menu.teleport.player.confirm=Confirm
+citytools.menu.teleport.player.showtitle=§e§lRequest sent, Maybe..
+
+citytools.menu.servers.mode=Server: %s
+citytools.menu.servers.mode.auto=(Auto)
+citytools.menu.servers.mode.manual=(Manual)
+citytools.menu.servers.title=Which server do you want to go to?
+citytools.menu.servers.sc=Survival
+citytools.menu.servers.sk=SkyWar
+citytools.menu.servers.kd=SkyBlock
+citytools.menu.servers.kk=Acid Island
+citytools.menu.servers.zd=Diamond Land
+citytools.menu.servers.mrsc=Z-day Survival
+citytools.menu.servers.tnt=TNT!
+
+citytools.menu.mail.title=Send an e-mail to someone
+citytools.menu.mail.name=Addressee:
+citytools.menu.mail.context=Context:
+citytools.menu.mail.send=Send
+
+citytools.message.shoutswitch=§f[§6Living City§f] §aThe shout message has been %s.
+citytools.message.shoutswitch.show=displayed
+citytools.message.shoutswitch.hide=hidden
+
+citytools.tpmsg.title=§basked to be sent to you.
+citytools.tpmsg.choice=§a§l[%s]Accept    §c§l[%s]Deny
+
+citytools.mainmenu.forum=Game Forum
+citytools.mainmenu.qq=Join QQ group
+
+citytools.credits.esc=Press Esc to skip
+
+citytools.gamemenu.title=Game Menu
+citytools.gamemenu.subtitle=Living City Server
+citytools.gamemenu.online=Online: %s
+citytools.gamemenu.alone=Don't forget. You're not alone.
+citytools.gamemenu.screenshot=Open screenshot folder
+citytools.gamemenu.hotkeys=Hot key options
+citytools.gamemenu.backtoold=Back to old game menu
+citytools.gamemenu.ignorelist=Ignore List...
+citytools.gamemenu.chatnotice=Chat sound alert...
+citytools.gamemenu.options=Options of LivingCity Tools Mod.
+citytools.gamemenu.payrecord=Money Pay Records
+
+citytools.payrecord.title=Money Pay Records
+citytools.payrecord.subtitle=This is the record IN CLIENT. Authenticity and completeness are not guaranteed.
+citytools.payrecord.clear=Clear All
+
+citytools.chatnotice.title=Chat sound alert settings
+citytools.chatnotice.subtitle=§7Color code is not supported now, There is useless in forcing change configuration files
+citytools.chatnotice.text=When text are contained in chat:
+citytools.chatnotice.sound=Play sound:
+citytools.chatnotice.patch=Patch:
+citytools.chatnotice.remove=Delete
+citytools.chatnotice.play=Audition
+
+citytools.networkfix.buttonname=Are you always in “正在连接”? Click me!
+citytools.networkfix.title=Why I`m always in “正在连接”? How to deal with it?
+citytools.networkfix.context.0=Windows users can click the button in the bottom right corner of the screen to change
+citytools.networkfix.context.1= the settings of the network adapter. After opening the configuration page
+citytools.networkfix.context.2=Right click the network you are using, click disable, 
+citytools.networkfix.context.3=right click again, click enable
+citytools.networkfix.context.4=After that, click the back button below to 
+citytools.networkfix.context.5=return to the main menu to see if it works.
+citytools.networkfix.config=Change adapter settings
+citytools.networkfix.config.unsupport=Only support Windows
