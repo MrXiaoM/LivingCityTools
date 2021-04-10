@@ -1,0 +1,38 @@
+{
+  "inv.close": {
+    "category": "master",
+    "sounds": [
+      "citytools:inventory/close"
+    ]
+  },
+  "inv.open": {
+    "category": "master",
+    "sounds": [
+      "citytools:inventory/open"
+    ]
+  },
+    "notice.default": {
+    "category": "master",
+    "sounds": [
+      "citytools:notice/ding"
+    ]
+  },
+    "notice.he": {
+    "category": "master",
+    "sounds": [
+      "citytools:notice/he"
+    ]
+  },
+    "notice.ahh": {
+    "category": "master",
+    "sounds": [
+      "citytools:notice/ahh"
+    ]
+  },
+    "notice.ddd": {
+    "category": "master",
+    "sounds": [
+      "citytools:notice/ddd"
+    ]
+  }
+}
